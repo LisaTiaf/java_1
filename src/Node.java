@@ -1,5 +1,5 @@
 public class Node {
-    private int info;
+    public int info;
     public Node next;
     public Node(int info) {
         this.info = info;
