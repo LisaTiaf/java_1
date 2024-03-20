@@ -89,6 +89,7 @@ public class List {
     public int getSize() {
         return size;
     }
+
     public String to_str() {
         Node ptr = head;
         String res = "";
